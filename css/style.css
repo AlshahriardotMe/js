@@ -1,0 +1,22 @@
+#red,#Pink,#yellow,#blue,#green{
+  width: 250px;
+  height: 150px;
+}
+#red{
+    background: red;
+}
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
+#Pink{
+    background: pink;
+}
+.container{
+    display: flex;
+}
